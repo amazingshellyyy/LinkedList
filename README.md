@@ -27,6 +27,9 @@ const backet = ['apples','grapes','pears']
 ```
 JavaScript doesn't come with Linked List build in (but some other language does - eg. Java)
 
+![Time Complexity](https://imgur.com/KubudB1)
+(photo credit to General Assembly)
+
 # Arrays VS Linked Lists
 ## Array:
 - Is static in size
