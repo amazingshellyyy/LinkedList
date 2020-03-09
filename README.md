@@ -2,7 +2,7 @@
 
 ## What is Linked List?
 A list that is linked. 
-A singly linked list container a set of nodes where they are linked. Each nodes has two elements: the value of the data and a pointer (reference to the next node in line).
+A singly linked list contain a set of nodes where they are linked. Each nodes has two elements: the value of the data and a pointer (reference to the next node in line).
 the first node is called the head and the last node is called the tail.
 Linked list are null teminated. When a node is pointing to null that means it is the tail of the list.
 
