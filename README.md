@@ -27,7 +27,22 @@ const backet = ['apples','grapes','pears']
 ```
 JavaScript doesn't come with Linked List build in (but some other language does - eg. Java)
 
+# Arrays VS Linked Lists
+## Array:
+- Is static in size
+- Access is easy, just know the index
+- Search is harder, has to loop through array
+- Insertion is harder, has to shift value of each index after the insertion
+- Deletion is harder, has to shift value of each index after deletion
+- Uses less memory, but uses it inefficiently since the block has to be sequential and allocated on compile
 
+## Linked List:
+- Is dynamic in size
+- Access is harder, has to sequentially go through list to find element
+- Search is harder, has to sequentially go through list to find element
+- Insertion is easier, only has to change pointer value of the previous element
+- Deletion is easier, only has to change pointer value of the previous element
+- Uses more memory, each element needs a value and a pointer but uses it efficiently since it only uses memory on execution. Unused memory can be reallocated.
 
 ## Example of Linked List
 
