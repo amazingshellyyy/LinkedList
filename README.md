@@ -10,7 +10,7 @@ Linked list are null teminated. When a node is pointing to null that means it is
 (photo credit to GeeksforGeeks)
 
 
-two types of Lined List
+two types of Linked List
  - singly Linked List
  - doubly Linked List
 
